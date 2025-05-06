@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-s63&2*xg#2)s02=l8a*6-pqyijc=tajass+qa_sa1k$tk=hs57
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*', 'django-app-bader19-dev.apps.rm3.7wse.p1.openshiftapps.com', 'localhost']
 
 
 # Application definition
